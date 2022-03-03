@@ -12,10 +12,11 @@ h1 {
 .maindiv {
 	background-color: white;
 	color: black;
-	width: 500px;
+	width: 400px;
 	padding: 20px;
 	border-radius: 25px;
 	margin: auto;
+	margin-top: 50px;
 }
 
 .labelDiv {
