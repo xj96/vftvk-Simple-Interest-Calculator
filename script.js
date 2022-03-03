@@ -12,7 +12,7 @@ const calculateInterest = () => {
 
     if (principal == 0 || principal < 0) {
         alert("Please enter a positive number!");
-        focus(document.getElementById("principal"));
+        principal.focus();
     }
 }
 
